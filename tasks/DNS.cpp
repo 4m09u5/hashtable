@@ -3,6 +3,7 @@
 //
 
 #include "DNS.h"
+#include <string>
 
 int lastCur = 0;
 
